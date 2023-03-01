@@ -1,0 +1,755 @@
+2023-02-27 21:32:29 | [INFO]    | Discordia 2.11.2
+2023-02-27 21:32:29 | [INFO]    | Connecting to Discord...
+2023-02-27 21:32:29 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 21:32:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 21:32:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 21:32:30 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 21:32:30 | [INFO]    | Shard 0 : Received READY
+2023-02-27 21:35:36 | [INFO]    | Discordia 2.11.2
+2023-02-27 21:35:36 | [INFO]    | Connecting to Discord...
+2023-02-27 21:35:37 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 21:35:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 21:35:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 21:35:37 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 21:35:37 | [INFO]    | Shard 0 : Received READY
+2023-02-27 21:35:51 | [INFO]    | Discordia 2.11.2
+2023-02-27 21:35:51 | [INFO]    | Connecting to Discord...
+2023-02-27 21:35:51 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 21:35:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 21:35:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 21:35:51 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 21:35:52 | [INFO]    | Shard 0 : Received READY
+2023-02-27 21:36:36 | [INFO]    | Discordia 2.11.2
+2023-02-27 21:36:36 | [INFO]    | Connecting to Discord...
+2023-02-27 21:36:36 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 21:36:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 21:36:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 21:36:36 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 21:36:36 | [INFO]    | Shard 0 : Received READY
+2023-02-27 21:36:47 | [INFO]    | Discordia 2.11.2
+2023-02-27 21:36:47 | [INFO]    | Connecting to Discord...
+2023-02-27 21:36:47 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 21:36:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 21:36:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 21:36:47 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 21:36:47 | [INFO]    | Shard 0 : Received READY
+2023-02-27 21:37:49 | [INFO]    | Discordia 2.11.2
+2023-02-27 21:37:49 | [INFO]    | Connecting to Discord...
+2023-02-27 21:37:49 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 21:37:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 21:37:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 21:37:49 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 21:37:49 | [INFO]    | Shard 0 : Received READY
+2023-02-27 21:38:12 | [INFO]    | Discordia 2.11.2
+2023-02-27 21:38:12 | [INFO]    | Connecting to Discord...
+2023-02-27 21:38:12 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 21:38:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 21:38:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 21:38:12 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 21:38:12 | [INFO]    | Shard 0 : Received READY
+2023-02-27 21:45:30 | [INFO]    | Discordia 2.11.2
+2023-02-27 21:45:30 | [INFO]    | Connecting to Discord...
+2023-02-27 21:45:30 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 21:45:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 21:45:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 21:45:30 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 21:45:30 | [INFO]    | Shard 0 : Received READY
+2023-02-27 21:54:36 | [INFO]    | Discordia 2.11.2
+2023-02-27 21:54:36 | [INFO]    | Connecting to Discord...
+2023-02-27 21:54:36 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 21:54:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 21:54:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 21:54:36 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 21:54:37 | [INFO]    | Shard 0 : Received READY
+2023-02-27 22:14:48 | [INFO]    | Discordia 2.11.2
+2023-02-27 22:14:48 | [INFO]    | Connecting to Discord...
+2023-02-27 22:14:49 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 22:14:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 22:14:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 22:14:49 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 22:14:49 | [INFO]    | Shard 0 : Received READY
+2023-02-27 22:21:02 | [INFO]    | Discordia 2.11.2
+2023-02-27 22:21:02 | [INFO]    | Connecting to Discord...
+2023-02-27 22:21:02 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 22:21:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 22:21:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 22:21:03 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 22:21:03 | [INFO]    | Shard 0 : Received READY
+2023-02-27 22:39:40 | [INFO]    | Discordia 2.11.2
+2023-02-27 22:39:40 | [INFO]    | Connecting to Discord...
+2023-02-27 22:39:40 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 22:39:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 22:39:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 22:39:41 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 22:39:41 | [INFO]    | Shard 0 : Received READY
+2023-02-27 22:40:47 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/328026599599374336
+2023-02-27 22:40:47 | [INFO]    | Discordia 2.11.2
+2023-02-27 22:40:47 | [INFO]    | Connecting to Discord...
+2023-02-27 22:40:47 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 22:40:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 22:40:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 22:40:47 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 22:40:47 | [INFO]    | Shard 0 : Received READY
+2023-02-27 22:42:06 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/328026599599374336
+2023-02-27 22:42:39 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/nil
+2023-02-27 22:48:46 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/328026599599374336
+2023-02-27 22:48:46 | [INFO]    | Discordia 2.11.2
+2023-02-27 22:48:46 | [INFO]    | Connecting to Discord...
+2023-02-27 22:48:46 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 22:48:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 22:48:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 22:48:46 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 22:48:47 | [INFO]    | Shard 0 : Received READY
+2023-02-27 22:49:53 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/1078816076298719312
+2023-02-27 22:49:53 | [INFO]    | Discordia 2.11.2
+2023-02-27 22:49:53 | [INFO]    | Connecting to Discord...
+2023-02-27 22:49:54 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 22:49:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 22:49:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 22:49:54 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 22:49:54 | [INFO]    | Shard 0 : Received READY
+2023-02-27 22:51:48 | [INFO]    | Discordia 2.11.2
+2023-02-27 22:51:48 | [INFO]    | Connecting to Discord...
+2023-02-27 22:51:48 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 22:51:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 22:51:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 22:51:49 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 22:51:49 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:05:14 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:05:14 | [INFO]    | Connecting to Discord...
+2023-02-27 23:05:14 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:05:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:05:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:05:14 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:05:14 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:06:08 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:06:08 | [INFO]    | Connecting to Discord...
+2023-02-27 23:06:09 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:06:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:06:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:06:09 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:06:09 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:07:04 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:07:04 | [INFO]    | Connecting to Discord...
+2023-02-27 23:07:04 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:07:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:07:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:07:04 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:07:05 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:07:21 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:07:21 | [INFO]    | Connecting to Discord...
+2023-02-27 23:07:22 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:07:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:07:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:07:22 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:07:22 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:10:11 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:10:11 | [INFO]    | Connecting to Discord...
+2023-02-27 23:10:11 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:10:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:10:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:10:11 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:10:11 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:18:10 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:18:10 | [INFO]    | Connecting to Discord...
+2023-02-27 23:18:10 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:18:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:18:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:18:10 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:18:10 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:18:57 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:18:57 | [INFO]    | Connecting to Discord...
+2023-02-27 23:18:57 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:18:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:18:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:18:58 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:18:58 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:21:04 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:21:04 | [INFO]    | Connecting to Discord...
+2023-02-27 23:21:04 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:21:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:21:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:21:05 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:21:05 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:24:34 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:24:34 | [INFO]    | Connecting to Discord...
+2023-02-27 23:24:34 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:24:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:24:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:24:35 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:24:35 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:25:16 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:25:16 | [INFO]    | Connecting to Discord...
+2023-02-27 23:25:16 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:25:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:25:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:25:16 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:25:16 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:33:39 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:33:39 | [INFO]    | Connecting to Discord...
+2023-02-27 23:33:40 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:33:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:33:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:33:40 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:33:40 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:39:48 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:39:48 | [INFO]    | Connecting to Discord...
+2023-02-27 23:39:48 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:39:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:39:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:39:49 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:39:49 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:44:04 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:44:04 | [INFO]    | Connecting to Discord...
+2023-02-27 23:44:04 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:44:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:44:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:44:04 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:44:05 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:45:14 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:45:14 | [INFO]    | Connecting to Discord...
+2023-02-27 23:45:14 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:45:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:45:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:45:14 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:45:15 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:45:29 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:45:29 | [INFO]    | Connecting to Discord...
+2023-02-27 23:45:29 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:45:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:45:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:45:29 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:45:29 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:45:41 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:45:41 | [INFO]    | Connecting to Discord...
+2023-02-27 23:45:41 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:45:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:45:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:45:41 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:45:41 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:45:51 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:45:51 | [INFO]    | Connecting to Discord...
+2023-02-27 23:45:51 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:45:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:45:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:45:51 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:45:51 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:46:34 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:46:34 | [INFO]    | Connecting to Discord...
+2023-02-27 23:46:35 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:46:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:46:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:46:35 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:46:35 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:48:43 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:48:43 | [INFO]    | Connecting to Discord...
+2023-02-27 23:48:43 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:48:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:48:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:48:43 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:48:43 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:54:36 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:54:36 | [INFO]    | Connecting to Discord...
+2023-02-27 23:54:36 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:54:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:54:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:54:36 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:54:37 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:56:45 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:56:45 | [INFO]    | Connecting to Discord...
+2023-02-27 23:56:45 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:56:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:56:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:56:45 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:56:45 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:58:05 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:58:05 | [INFO]    | Connecting to Discord...
+2023-02-27 23:58:06 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:58:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:58:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:58:06 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:58:06 | [INFO]    | Shard 0 : Received READY
+2023-02-27 23:59:53 | [INFO]    | Discordia 2.11.2
+2023-02-27 23:59:53 | [INFO]    | Connecting to Discord...
+2023-02-27 23:59:53 | [INFO]    | Authenticated as mogbot#5755
+2023-02-27 23:59:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-27 23:59:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-27 23:59:53 | [INFO]    | Shard 0 : Received HELLO
+2023-02-27 23:59:54 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:00:32 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:00:32 | [INFO]    | Connecting to Discord...
+2023-02-28 00:00:32 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:00:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:00:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:00:32 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:00:32 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:03:18 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:03:18 | [INFO]    | Connecting to Discord...
+2023-02-28 00:03:19 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:03:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:03:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:03:19 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:03:19 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:04:59 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:04:59 | [INFO]    | Connecting to Discord...
+2023-02-28 00:05:00 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:05:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:05:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:05:00 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:05:00 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:08:45 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:08:45 | [INFO]    | Connecting to Discord...
+2023-02-28 00:08:45 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:08:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:08:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:08:45 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:08:45 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:09:37 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:09:37 | [INFO]    | Connecting to Discord...
+2023-02-28 00:09:37 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:09:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:09:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:09:38 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:09:38 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:09:54 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:09:54 | [INFO]    | Connecting to Discord...
+2023-02-28 00:09:54 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:09:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:09:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:09:54 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:09:54 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:10:06 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:10:06 | [INFO]    | Connecting to Discord...
+2023-02-28 00:10:06 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:10:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:10:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:10:07 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:10:07 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:10:56 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:10:56 | [INFO]    | Connecting to Discord...
+2023-02-28 00:10:57 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:10:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:10:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:10:57 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:10:57 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:13:33 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:13:33 | [INFO]    | Connecting to Discord...
+2023-02-28 00:13:34 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:13:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:13:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:13:34 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:13:34 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:14:51 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:14:51 | [INFO]    | Connecting to Discord...
+2023-02-28 00:14:51 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:14:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:14:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:14:51 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:14:51 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:15:36 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:15:36 | [INFO]    | Connecting to Discord...
+2023-02-28 00:15:37 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:15:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:15:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:15:37 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:15:37 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:16:46 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:16:46 | [INFO]    | Connecting to Discord...
+2023-02-28 00:16:47 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:16:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:16:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:16:47 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:16:47 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:17:05 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:17:05 | [INFO]    | Connecting to Discord...
+2023-02-28 00:17:05 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:17:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:17:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:17:05 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:17:05 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:17:18 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:17:18 | [INFO]    | Connecting to Discord...
+2023-02-28 00:17:18 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:17:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:17:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:17:18 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:17:18 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:20:02 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:20:02 | [INFO]    | Connecting to Discord...
+2023-02-28 00:20:02 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:20:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:20:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:20:03 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:20:03 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:20:47 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:20:47 | [INFO]    | Connecting to Discord...
+2023-02-28 00:20:47 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:20:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:20:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:20:47 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:20:47 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:21:11 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:21:11 | [INFO]    | Connecting to Discord...
+2023-02-28 00:21:11 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:21:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:21:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:21:11 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:21:12 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:23:21 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:23:21 | [INFO]    | Connecting to Discord...
+2023-02-28 00:23:21 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:23:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:23:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:23:21 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:23:21 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:25:58 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:25:58 | [INFO]    | Connecting to Discord...
+2023-02-28 00:25:58 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:25:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:25:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:25:58 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:25:58 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:26:16 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:26:16 | [INFO]    | Connecting to Discord...
+2023-02-28 00:26:16 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:26:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:26:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:26:16 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:26:16 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:33:10 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:33:10 | [INFO]    | Connecting to Discord...
+2023-02-28 00:33:11 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:33:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:33:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:33:11 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:33:11 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:34:12 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:34:12 | [INFO]    | Connecting to Discord...
+2023-02-28 00:34:13 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:34:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:34:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:34:13 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:34:13 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:35:14 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:35:14 | [INFO]    | Connecting to Discord...
+2023-02-28 00:35:15 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:35:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:35:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:35:15 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:35:15 | [INFO]    | Shard 0 : Received READY
+2023-02-28 00:54:57 | [INFO]    | Discordia 2.11.2
+2023-02-28 00:54:57 | [INFO]    | Connecting to Discord...
+2023-02-28 00:54:57 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 00:54:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 00:54:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 00:54:57 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 00:54:58 | [INFO]    | Shard 0 : Received READY
+2023-02-28 01:18:58 | [INFO]    | Shard 0 : Disconnected
+2023-02-28 01:18:58 | [INFO]    | Shard 0 : Reconnecting after 948 ms...
+2023-02-28 01:18:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 01:18:59 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 01:18:59 | [INFO]    | Shard 0 : Received RESUMED
+2023-02-28 01:21:19 | [INFO]    | Discordia 2.11.2
+2023-02-28 01:21:19 | [INFO]    | Connecting to Discord...
+2023-02-28 01:21:19 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 01:21:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 01:21:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 01:21:19 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 01:21:19 | [INFO]    | Shard 0 : Received READY
+2023-02-28 01:28:25 | [INFO]    | Discordia 2.11.2
+2023-02-28 01:28:25 | [INFO]    | Connecting to Discord...
+2023-02-28 01:28:26 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 01:28:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 01:28:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 01:28:26 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 01:28:26 | [INFO]    | Shard 0 : Received READY
+2023-02-28 01:29:02 | [INFO]    | Discordia 2.11.2
+2023-02-28 01:29:02 | [INFO]    | Connecting to Discord...
+2023-02-28 01:29:02 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 01:29:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 01:29:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 01:29:03 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 01:29:03 | [INFO]    | Shard 0 : Received READY
+2023-02-28 01:30:58 | [INFO]    | Discordia 2.11.2
+2023-02-28 01:30:58 | [INFO]    | Connecting to Discord...
+2023-02-28 01:30:58 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 01:30:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 01:30:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 01:30:58 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 01:30:58 | [INFO]    | Shard 0 : Received READY
+2023-02-28 01:34:36 | [INFO]    | Discordia 2.11.2
+2023-02-28 01:34:36 | [INFO]    | Connecting to Discord...
+2023-02-28 01:34:36 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 01:34:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 01:34:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 01:34:36 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 01:34:37 | [INFO]    | Shard 0 : Received READY
+2023-02-28 01:47:57 | [INFO]    | Discordia 2.11.2
+2023-02-28 01:47:57 | [INFO]    | Connecting to Discord...
+2023-02-28 01:47:58 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 01:47:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 01:47:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 01:47:58 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 01:47:58 | [INFO]    | Shard 0 : Received READY
+2023-02-28 02:05:44 | [INFO]    | Discordia 2.11.2
+2023-02-28 02:05:44 | [INFO]    | Connecting to Discord...
+2023-02-28 02:05:45 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 02:05:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 02:05:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 02:05:45 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 02:05:45 | [INFO]    | Shard 0 : Received READY
+2023-02-28 02:12:07 | [INFO]    | Discordia 2.11.2
+2023-02-28 02:12:07 | [INFO]    | Connecting to Discord...
+2023-02-28 02:12:07 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 02:12:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 02:12:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 02:12:07 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 02:12:07 | [INFO]    | Shard 0 : Received READY
+2023-02-28 02:45:30 | [INFO]    | Discordia 2.11.2
+2023-02-28 02:45:30 | [INFO]    | Connecting to Discord...
+2023-02-28 02:45:30 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 02:45:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 02:45:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 02:45:30 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 02:45:30 | [INFO]    | Shard 0 : Received READY
+2023-02-28 03:42:52 | [INFO]    | Discordia 2.11.2
+2023-02-28 03:42:52 | [INFO]    | Connecting to Discord...
+2023-02-28 03:42:52 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 03:42:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 03:42:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 03:42:53 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 03:42:53 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:21:17 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:21:17 | [INFO]    | Connecting to Discord...
+2023-02-28 04:21:17 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:21:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:21:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:21:17 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:21:18 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:28:36 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:28:36 | [INFO]    | Connecting to Discord...
+2023-02-28 04:28:36 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:28:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:28:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:28:36 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:28:36 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:30:54 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:30:54 | [INFO]    | Connecting to Discord...
+2023-02-28 04:30:55 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:30:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:30:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:30:55 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:30:55 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:32:12 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:32:12 | [INFO]    | Connecting to Discord...
+2023-02-28 04:32:12 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:32:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:32:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:32:12 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:32:12 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:35:52 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:35:52 | [INFO]    | Connecting to Discord...
+2023-02-28 04:35:52 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:35:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:35:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:35:52 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:35:52 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:37:17 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:37:17 | [INFO]    | Connecting to Discord...
+2023-02-28 04:37:17 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:37:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:37:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:37:18 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:37:18 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:39:07 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:39:07 | [INFO]    | Connecting to Discord...
+2023-02-28 04:39:07 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:39:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:39:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:39:08 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:39:08 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:39:48 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:39:48 | [INFO]    | Connecting to Discord...
+2023-02-28 04:39:48 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:39:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:39:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:39:48 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:39:49 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:47:01 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:47:01 | [INFO]    | Connecting to Discord...
+2023-02-28 04:47:01 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:47:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:47:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:47:02 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:47:02 | [INFO]    | Shard 0 : Received READY
+2023-02-28 04:50:36 | [INFO]    | Discordia 2.11.2
+2023-02-28 04:50:36 | [INFO]    | Connecting to Discord...
+2023-02-28 04:50:37 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 04:50:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 04:50:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 04:50:37 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 04:50:37 | [INFO]    | Shard 0 : Received READY
+2023-02-28 05:02:32 | [INFO]    | Discordia 2.11.2
+2023-02-28 05:02:32 | [INFO]    | Connecting to Discord...
+2023-02-28 05:02:32 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 05:02:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 05:02:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 05:02:32 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 05:02:32 | [INFO]    | Shard 0 : Received READY
+2023-02-28 05:03:36 | [INFO]    | Discordia 2.11.2
+2023-02-28 05:03:36 | [INFO]    | Connecting to Discord...
+2023-02-28 05:03:36 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 05:03:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 05:03:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 05:03:37 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 05:03:37 | [INFO]    | Shard 0 : Received READY
+2023-02-28 05:34:22 | [INFO]    | Discordia 2.11.2
+2023-02-28 05:34:22 | [INFO]    | Connecting to Discord...
+2023-02-28 05:34:22 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 05:34:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 05:34:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 05:34:23 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 05:34:23 | [INFO]    | Shard 0 : Received READY
+2023-02-28 11:53:12 | [INFO]    | Discordia 2.11.2
+2023-02-28 11:53:12 | [INFO]    | Connecting to Discord...
+2023-02-28 11:53:12 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 11:53:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 11:53:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 11:53:12 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 11:53:13 | [INFO]    | Shard 0 : Received READY
+2023-02-28 12:58:38 | [ERROR]   | 403 - Forbidden : POST https://discord.com/api/v8/channels/344191457696940042/messages
+2023-02-28 12:59:05 | [ERROR]   | 403 - Forbidden : POST https://discord.com/api/v8/channels/344191457696940042/messages
+2023-02-28 13:00:15 | [INFO]    | Shard 0 : Disconnected
+2023-02-28 13:00:15 | [INFO]    | Shard 0 : Reconnecting after 971 ms...
+2023-02-28 13:00:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 13:00:16 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 13:00:17 | [INFO]    | Shard 0 : Received RESUMED
+2023-02-28 13:00:17 | [ERROR]   | 403 - Forbidden : POST https://discord.com/api/v8/channels/344191457696940042/messages
+2023-02-28 13:00:44 | [ERROR]   | 403 - Forbidden : POST https://discord.com/api/v8/channels/344191457696940042/messages
+2023-02-28 13:16:32 | [INFO]    | Shard 0 : Disconnected
+2023-02-28 13:16:32 | [INFO]    | Shard 0 : Reconnecting after 1067 ms...
+2023-02-28 13:16:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 13:16:33 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 13:16:33 | [INFO]    | Shard 0 : Received RESUMED
+2023-02-28 16:21:05 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2023-02-28 16:21:05 | [INFO]    | Shard 0 : Disconnected
+2023-02-28 16:21:05 | [INFO]    | Shard 0 : Reconnecting...
+2023-02-28 16:21:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 16:21:06 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 16:21:06 | [INFO]    | Shard 0 : Received RESUMED
+2023-02-28 17:54:52 | [INFO]    | Shard 0 : Disconnected
+2023-02-28 17:54:52 | [INFO]    | Shard 0 : Reconnecting after 1017 ms...
+2023-02-28 17:54:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 17:54:53 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 17:54:53 | [INFO]    | Shard 0 : Received RESUMED
+2023-02-28 18:19:03 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2023-02-28 18:19:03 | [INFO]    | Shard 0 : Disconnected
+2023-02-28 18:19:03 | [INFO]    | Shard 0 : Reconnecting...
+2023-02-28 18:19:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 18:19:03 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 18:19:03 | [INFO]    | Shard 0 : Received RESUMED
+2023-02-28 20:28:12 | [INFO]    | Discordia 2.11.2
+2023-02-28 20:28:12 | [INFO]    | Connecting to Discord...
+2023-02-28 20:28:13 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 20:28:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 20:28:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 20:28:13 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 20:28:14 | [INFO]    | Shard 0 : Received READY
+2023-02-28 20:28:43 | [INFO]    | Discordia 2.11.2
+2023-02-28 20:28:43 | [INFO]    | Connecting to Discord...
+2023-02-28 20:28:43 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 20:28:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 20:28:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 20:28:43 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 20:28:44 | [INFO]    | Shard 0 : Received READY
+2023-02-28 20:31:33 | [INFO]    | Discordia 2.11.2
+2023-02-28 20:31:33 | [INFO]    | Connecting to Discord...
+2023-02-28 20:31:34 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 20:31:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 20:31:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 20:31:34 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 20:31:34 | [INFO]    | Shard 0 : Received READY
+2023-02-28 20:38:41 | [INFO]    | Discordia 2.11.2
+2023-02-28 20:38:41 | [INFO]    | Connecting to Discord...
+2023-02-28 20:38:41 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 20:38:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 20:38:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 20:38:41 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 20:38:42 | [INFO]    | Shard 0 : Received READY
+2023-02-28 20:43:55 | [INFO]    | Discordia 2.11.2
+2023-02-28 20:43:55 | [INFO]    | Connecting to Discord...
+2023-02-28 20:43:55 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 20:43:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 20:43:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 20:43:56 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 20:43:56 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:15:19 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:15:19 | [INFO]    | Connecting to Discord...
+2023-02-28 21:15:20 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:15:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:15:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:15:20 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:15:20 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:16:05 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:16:05 | [INFO]    | Connecting to Discord...
+2023-02-28 21:16:05 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:16:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:16:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:16:05 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:16:06 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:16:38 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:16:38 | [INFO]    | Connecting to Discord...
+2023-02-28 21:16:38 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:16:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:16:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:16:38 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:16:39 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:17:35 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:17:35 | [INFO]    | Connecting to Discord...
+2023-02-28 21:17:35 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:17:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:17:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:17:35 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:17:36 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:18:39 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:18:39 | [INFO]    | Connecting to Discord...
+2023-02-28 21:18:40 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:18:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:18:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:18:40 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:18:40 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:24:54 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:24:54 | [INFO]    | Connecting to Discord...
+2023-02-28 21:24:55 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:24:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:24:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:24:55 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:24:55 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:31:13 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:31:13 | [INFO]    | Connecting to Discord...
+2023-02-28 21:31:13 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:31:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:31:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:31:15 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:31:15 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:44:24 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:44:24 | [INFO]    | Connecting to Discord...
+2023-02-28 21:44:25 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:44:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:44:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:44:25 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:44:25 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:44:49 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:44:49 | [INFO]    | Connecting to Discord...
+2023-02-28 21:44:49 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:44:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:44:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:44:50 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:44:50 | [INFO]    | Shard 0 : Received READY
+2023-02-28 21:59:09 | [INFO]    | Discordia 2.11.2
+2023-02-28 21:59:09 | [INFO]    | Connecting to Discord...
+2023-02-28 21:59:09 | [INFO]    | Authenticated as mogbot#5755
+2023-02-28 21:59:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-02-28 21:59:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-02-28 21:59:09 | [INFO]    | Shard 0 : Received HELLO
+2023-02-28 21:59:09 | [INFO]    | Shard 0 : Received READY

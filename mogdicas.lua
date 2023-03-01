@@ -22,7 +22,7 @@ local randomMessages = {
     [20] = "A temporada de jacas começa em dezembro e vai até abril.",
     [21] = "'Procure acender uma vela em vez de amaldiçoar a escuridão'. Essa dica aqui eu tirei do google :p",
     [22] = "Não seja tóxico. Interprete como quiser.",
-    [23] = "São necessárias 10 obsidianas para fazer um portal do Nether. Não se esqueça do isqueiro.",
+    [23] = "São necessárias 10 obsidianas para fazer um portal do Nether. Não se esqueça do isqueiro!",
     [24] = "Use o comando **mogmcr <item>** para descobrir como fazer o item em questão no minecraft. Já aviso que essa função ainda está em construção!",
 }
 
