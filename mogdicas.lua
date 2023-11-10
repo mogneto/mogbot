@@ -24,10 +24,11 @@ local randomMessages = {
     [22] = "Não seja tóxico. Interprete como quiser.",
     [23] = "São necessárias 10 obsidianas para fazer um portal do Nether. Não se esqueça do isqueiro!",
     [24] = "Use o comando **mogmcr <item>** para descobrir como fazer o item em questão no minecraft. Já aviso que essa função ainda está em construção!",
+    [25] = "O consumo exagerado de carne vermelha pode aumentar os níveis de colesterol e os riscos de doenças cardiovasculares."
 }
 
 local function sendRandomMessage(Message)
-    local aleatorio = math.random(0, 24)
+    local aleatorio = math.random(0, 25)
     Message:reply(randomMessages[aleatorio])
 end
 
